@@ -1,0 +1,398 @@
+{
+	 "rootnode": {
+		 "name": "unnamed"
+		,"transformation": [
+			 0.0254
+			,0
+			,0
+			,0
+			,0
+			,0
+			,0.0254
+			,0
+			,0
+			,-0.0254
+			,0
+			,0
+			,0
+			,0
+			,0
+			,1
+		]
+		,"children": [
+			{
+				 "name": "SketchUp"
+				,"transformation": [
+					 1
+					,0
+					,0
+					,0
+					,0
+					,1
+					,0
+					,0
+					,0
+					,0
+					,1
+					,0
+					,0
+					,0
+					,0
+					,1
+				]
+				,"meshes": [
+					 0
+				]
+				,"children": [
+					{
+						 "name": "skp_camera_Last_Saved_SketchUp_View"
+						,"transformation": [
+							 0.887288
+							,-0.100909
+							,0.450042
+							,416.884
+							,0.461217
+							,0.194129
+							,-0.86579
+							,498.075
+							,-1.52656e-16
+							,0.975772
+							,0.21879
+							,112.956
+							,0
+							,0
+							,0
+							,1
+						]
+					}
+				]
+			}
+		]
+	}
+	,"flags": 8
+	,"meshes": [
+		{
+			 "name": "ID3"
+			,"materialindex": 0
+			,"primitivetypes": 4
+			,"vertices": [
+				 354.924
+				,829.497
+				,71.085
+				,354.924
+				,562.81
+				,113.272
+				,354.924
+				,562.81
+				,71.085
+				,354.924
+				,829.497
+				,113.842
+			]
+			,"normals": [
+				 1
+				,0
+				,0
+				,1
+				,0
+				,0
+				,1
+				,0
+				,0
+				,1
+				,0
+				,0
+			]
+			,"faces": [
+				[
+					 0
+					,1
+					,2
+				]
+				,[
+					 1
+					,0
+					,3
+				]
+			]
+		}
+	]
+	,"materials": [
+		{
+			 "properties": [
+				{
+					 "key": "?mat.name"
+					,"semantic": 0
+					,"index": 0
+					,"type": 3
+					,"value": "ID5"
+				}
+				,{
+					 "key": "$mat.shadingm"
+					,"semantic": 0
+					,"index": 0
+					,"type": 4
+					,"value": 2
+				}
+				,{
+					 "key": "$mat.twosided"
+					,"semantic": 0
+					,"index": 0
+					,"type": 4
+					,"value": 0
+				}
+				,{
+					 "key": "$mat.wireframe"
+					,"semantic": 0
+					,"index": 0
+					,"type": 4
+					,"value": 0
+				}
+				,{
+					 "key": "$clr.ambient"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 0.1
+						,0.1
+						,0.1
+						,1
+					]
+				}
+				,{
+					 "key": "$clr.diffuse"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 1
+						,1
+						,1
+						,1
+					]
+				}
+				,{
+					 "key": "$clr.specular"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 0.4
+						,0.4
+						,0.4
+						,1
+					]
+				}
+				,{
+					 "key": "$clr.emissive"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 0
+						,0
+						,0
+						,1
+					]
+				}
+				,{
+					 "key": "$clr.transparent"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 0
+						,0
+						,0
+						,1
+					]
+				}
+				,{
+					 "key": "$clr.reflective"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 0
+						,0
+						,0
+						,0
+					]
+				}
+				,{
+					 "key": "$mat.shininess"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": 10
+				}
+				,{
+					 "key": "$mat.reflectivity"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": 1
+				}
+				,{
+					 "key": "$mat.refracti"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": 1
+				}
+				,{
+					 "key": "$mat.opacity"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": 1
+				}
+			]
+		}
+		,{
+			 "properties": [
+				{
+					 "key": "?mat.name"
+					,"semantic": 0
+					,"index": 0
+					,"type": 3
+					,"value": "ID9"
+				}
+				,{
+					 "key": "$mat.shadingm"
+					,"semantic": 0
+					,"index": 0
+					,"type": 4
+					,"value": 9
+				}
+				,{
+					 "key": "$mat.twosided"
+					,"semantic": 0
+					,"index": 0
+					,"type": 4
+					,"value": 0
+				}
+				,{
+					 "key": "$mat.wireframe"
+					,"semantic": 0
+					,"index": 0
+					,"type": 4
+					,"value": 0
+				}
+				,{
+					 "key": "$clr.ambient"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 0.1
+						,0.1
+						,0.1
+						,1
+					]
+				}
+				,{
+					 "key": "$clr.diffuse"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 0.6
+						,0.6
+						,0.6
+						,1
+					]
+				}
+				,{
+					 "key": "$clr.specular"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 0.4
+						,0.4
+						,0.4
+						,1
+					]
+				}
+				,{
+					 "key": "$clr.emissive"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 0
+						,0
+						,0
+						,1
+					]
+				}
+				,{
+					 "key": "$clr.transparent"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 0
+						,0
+						,0
+						,1
+					]
+				}
+				,{
+					 "key": "$clr.reflective"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": [
+						 0
+						,0
+						,0
+						,0
+					]
+				}
+				,{
+					 "key": "$mat.shininess"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": 10
+				}
+				,{
+					 "key": "$mat.reflectivity"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": 1
+				}
+				,{
+					 "key": "$mat.refracti"
+					,"semantic": 0
+					,"index": 0
+					,"type": 1
+					,"value": 1
+				}
+			]
+		}
+	]
+	,"cameras": [
+		{
+			 "name": "skp_camera_Last_Saved_SketchUp_View"
+			,"aspect": 0
+			,"clipplanefar": 1000
+			,"clipplanenear": 1
+			,"horizontalfov": 0
+			,"up": [
+				 0
+				,1
+				,0
+			]
+			,"lookat": [
+				 0
+				,0
+				,-1
+			]
+		}
+	]
+}
